@@ -1,1 +1,1 @@
-# odin-recipes
+This project is for The Odin Project's Recipes project. This project will help develop my html skills and let me practice the concepts and ideas I have learned so far.
